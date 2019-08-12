@@ -40,7 +40,7 @@ You should download the latest released tarball from [GitHub](https://github.com
 Or if you prefer use git.
 
     git clone https://github.com/Icinga/icingaweb2-module-toplevelview.git \
-      /usr/share/icingaweb2/module/toplevelview
+      /usr/share/icingaweb2/modules/toplevelview
 
 Enable the module in the web interface, or via CLI:
 
